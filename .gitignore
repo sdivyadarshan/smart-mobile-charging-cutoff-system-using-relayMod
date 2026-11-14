@@ -1,0 +1,14 @@
+# Editor / OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Build outputs for any future firmware revision
+build/
+dist/
+*.hex
+*.elf
+*.bin
+*.o
+*.d
